@@ -1,7 +1,7 @@
 ---
 title: 'On Microbiome Simulators
 date: 2019-07-19
-permalink: /posts/2019/07/blog-post-1/
+permalink: /posts/2019/07/microbiomesimulators/
 tags:
   - simulation
   - microbiome simulation
