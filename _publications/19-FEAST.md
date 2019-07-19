@@ -1,0 +1,15 @@
+---
+title: "FEAST: fast expectation-maximization for microbial source tracking"
+collection: publications
+permalink: /publication/6/10/19-FEAST
+excerpt: 'FEAST may provide insight into quantifying contamination, tracking the formation of developing microbial communities, as well as distinguishing and characterizing bacteria-related health conditions'
+date: 6/10/19
+venue: 'Nature Methods'
+paperurl: 'https://doi.org/10.1038/s41592-019-0431-x'
+citation: 'Shenhav, L., Thompson, M., Joseph, T. A., Briscoe, L., Furman, O., Bogumil, D., ... &amp; Halperin, E. (2019). FEAST: fast expectation-maximization for microbial source tracking. Nature methods, 1.'
+---
+FEAST may provide insight into quantifying contamination, tracking the formation of developing microbial communities, as well as distinguishing and characterizing bacteria-related health conditions
+
+[Download paper here](https://doi.org/10.1038/s41592-019-0431-x)
+
+Recommended citation: Shenhav, L., Thompson, M., Joseph, T. A., Briscoe, L., Furman, O., Bogumil, D., ... & Halperin, E. (2019). FEAST: fast expectation-maximization for microbial source tracking. Nature methods, 1.

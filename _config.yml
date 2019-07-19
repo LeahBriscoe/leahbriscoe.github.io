@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Leah Briscoe/ Researcher"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Leah Briscoe"
+description              : &description "PhD student in Bioinformatics at UCLA"
 url                      : https://leahbriscoe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LeahBriscoe/leahbriscoe.github.io"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Leah Briscoe"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Graduate student in the UCLA Bioinformatics PhD Program. I am working on creating statistical methods for analyzing microbial populations"
+  location         : "Los Angeles"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=RFG1m2UAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
