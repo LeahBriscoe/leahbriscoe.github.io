@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I hope to share things I've learned in the process of working with microbiome data. 
+I am currently a graduate student in the UCLA Bioinformatics Interdepartmental Program. I am working on creating statistical methods for analyzing microbial populations.
