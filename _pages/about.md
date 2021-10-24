@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a graduate student in the UCLA Bioinformatics Interdepartmental Program. I am working on creating statistical methods for analyzing microbial populations.
+I am currently a PhD Candidate in the UCLA Bioinformatics Interdepartmental Program. I am working on creating statistical methods for analyzing microbial populations.
