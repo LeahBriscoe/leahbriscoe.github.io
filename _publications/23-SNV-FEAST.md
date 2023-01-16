@@ -1,0 +1,16 @@
+---
+title: "SNV-FEAST: microbial source tracking with single nucleotide variants"
+collection: publications
+permalink: /publication/1/9/23-SNV-FEAST
+excerpt: 'Elucidating the sources of a microbiome can provide insight into the ecological dynamics responsible for the formation of these communities. '
+date: 1/9/23
+venue: 'biorxiv'
+paperurl: 'https://doi.org/10.1101/2022.05.28.493810'
+citation: 'Briscoe, L., Halperin, E., &amp; Garud, N. R. (2023). Microbiome source tracking using single nucleotide variants.bioRxiv.'
+---
+
+<a href='https://doi.org/10.1101/2022.05.28.493810'>Download paper here</a>
+
+Elucidating the sources of a microbiome can provide insight into the ecological dynamics responsible for the formation of these communities. 
+
+Recommended citation: Briscoe, L., Halperin, E., & Garud, N. R. (2023). Microbiome source tracking using single nucleotide variants.bioRxiv.
